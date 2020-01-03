@@ -1,0 +1,35 @@
+{
+  "name": "react-native-mention",
+  "version": "1.0.0",
+  "description": "Facebook like name mentions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kusalshrestha/react-native-mention.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "react native",
+    "mobile",
+    "ios",
+    "android",
+    "ui",
+    "mention",
+    "facebook mention"
+  ],
+  "author": "Kusal Shrestha",
+  "license": "MIT",
+  "homepage": "https://github.com/kusalshrestha/react-native-mention#readme",
+  "dependencies": {
+    "react-native-parsed-text": "^0.0.21"
+  },
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.57.0"
+  }
+}
