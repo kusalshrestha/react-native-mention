@@ -1,6 +1,6 @@
 # React Native Mention 🚀
 
-Facebook like mention input.
+Facebook like mention input. Thanks to `react-native-parsed-text`
 
 ![Demo](https://github.com/kusalshrestha/react-native-mention/blob/master/demo.gif)
 
