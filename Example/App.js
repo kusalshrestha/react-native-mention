@@ -1,9 +1,9 @@
 import React from 'react'
 import {View, Keyboard, TouchableWithoutFeedback} from 'react-native'
 
+import styles from './styles'
+import MentionCell from './MentionCell'
 import MentionInput from '../src/MentionInput'
-import styles from '../src/MentionInput/styles'
-import MentionCell from '../src/MentionInput/MentionCell'
 
 /**
  * Uniqueness for Object.

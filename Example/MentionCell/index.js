@@ -1,8 +1,6 @@
 import React from 'react'
 import { View, StyleSheet, Image, Text } from 'react-native'
 
-import colors from '../../constants/colors'
-
 export const CELL_HEIGHT = 40
 
 const styles = StyleSheet.create({
@@ -14,8 +12,8 @@ const styles = StyleSheet.create({
     borderTopWidth: 1,
     borderBottomWidth: 1,
     paddingHorizontal: 4,
-    borderTopColor: colors.lightGray,
-    borderBottomColor: colors.lightGray,
+    borderTopColor: '#EEEEEE',
+    borderBottomColor: '#EEEEEE',
     alignItems: 'center'
   },
   imageContainer: {
@@ -27,7 +25,7 @@ const styles = StyleSheet.create({
     width: 35,
     height: 35,
     borderRadius: 17.5,
-    backgroundColor: colors.lightestGray1
+    backgroundColor: '#F7F6FB'
   },
   text: {
     paddingHorizontal: 10

@@ -15,7 +15,7 @@ yarn add react-native-mention
 
 ## Usage
 ```js
-import SegmentContorl from 'react-native-mention';
+import MentionInput from 'react-native-mention';
 
 render() {
   return (
